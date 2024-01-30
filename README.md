@@ -10,7 +10,7 @@ This Python application is a Flask-based web service that serves map tiles store
 2. **Dependencies:**
    - Install the required Python libraries using the following command in your terminal or command prompt:
      ```
-     pip install Flask geopandas matplotlib mapbox_vector_tile
+     pip install Flask geopandas matplotlib mapbox_vector_tile shapely
      ```
 
 ### Running the Application
